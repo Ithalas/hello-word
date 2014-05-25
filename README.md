@@ -1,5 +1,4 @@
 hello-word
 ==========
-Bonjour !
+Bonjour ! voici mon premier ReadMe
 
-Beginning
