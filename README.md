@@ -1,4 +1,4 @@
 hello-word
 ==========
-Bonjour ! voici mon premier ReadMe
+Bonjour ! voici mon premier ReadMe ^^
 
