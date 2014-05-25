@@ -1,4 +1,5 @@
 hello-word
 ==========
+Bonjour !
 
 Beginning
